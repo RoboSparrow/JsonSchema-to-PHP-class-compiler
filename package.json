@@ -1,0 +1,14 @@
+{
+    "name": "tin-can-json-schema",
+    "version": "1.0.2",
+    "description": "JsonSchema json to PHP class compiler",
+    "private": true,
+    "repository": {
+      "type": "git",
+        "url": "https://github.com/RoboSparrow/JsonSchema-to-PHP-class-compiler.git"
+    },
+    "author": "@RoboSparrow (jboeselt)",
+    "scripts": {
+        "postinstall": "git clone https://github.com/RusticiSoftware/TinCanSchema.git"
+    }
+}
