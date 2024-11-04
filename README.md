@@ -1,4 +1,4 @@
-#JsonSchema json to PHP class compiler
+# JsonSchema json to PHP class compiler
 
 * https://github.com/adlnet/xAPI-Spec).
 * https://github.com/RusticiSoftware/TinCanSchema
